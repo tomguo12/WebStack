@@ -2,7 +2,7 @@
 /*
  * @Theme Name:WebStack
  * @Theme URI:https://56world.pp.ua/
- * @Author: iowen
+ * @Author: Midou
  * @Author URI: https://56world.pp.ua/
  * @Date: 2019-02-22 21:26:02
  * @LastEditors: midou
