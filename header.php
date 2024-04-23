@@ -1,9 +1,9 @@
 <?php
 /*
- * @Author: iowen
- * @Author URI: https://www.iowen.cn/
+ * @Author: Midou
+ * @Author URI: https://56world.pp.ua/
  * @Date: 2021-02-21 21:26:02
- * @LastEditors: iowen
+ * @LastEditors: Midou
  * @LastEditTime: 2023-02-20 20:53:39
  * @FilePath: \WebStack\header.php
  * @Description: 
