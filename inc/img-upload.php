@@ -2,7 +2,7 @@
 /**
  * WordPress 投稿页上传图片，支持游客上传
  * 原文地址：https://56world.pp.ua/
- * 一为忆
+ * Midou
  * WebStack 导航主题
  * 
  * 弃用，已经移至ajax.php
