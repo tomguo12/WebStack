@@ -1,11 +1,11 @@
 <?php
 /*
  * @Theme Name:WebStack
- * @Theme URI:https://www.iotheme.cn/
- * @Author: iowen
- * @Author URI: https://www.iowen.cn/
+ * @Theme URI:https://56world.pp.ua
+ * @Author: Midou
+ * @Author URI: https://56world.pp.ua
  * @Date: 2019-02-22 21:26:02
- * @LastEditors: iowen
+ * @LastEditors: Midou
  * @LastEditTime: 2023-02-20 19:59:51
  * @FilePath: \WebStack\templates\header-nav.php
  * @Description: 
