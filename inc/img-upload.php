@@ -1,7 +1,7 @@
 <?php 
 /**
  * WordPress 投稿页上传图片，支持游客上传
- * 原文地址：https://www.iowen.cn/wordpress-visitors-upload-pictures
+ * 原文地址：https://56world.pp.ua/
  * 一为忆
  * WebStack 导航主题
  * 
