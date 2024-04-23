@@ -1,11 +1,11 @@
 <?php
 /*
  * @Theme Name:WebStack
- * @Theme URI:https://www.iotheme.cn/
+ * @Theme URI:https://56world.pp.ua/
  * @Author: iowen
- * @Author URI: https://www.iowen.cn/
+ * @Author URI: https://56world.pp.ua/
  * @Date: 2019-02-22 21:26:02
- * @LastEditors: iowen
+ * @LastEditors: midou
  * @LastEditTime: 2023-02-20 21:38:08
  * @FilePath: \WebStack\inc\inc.php
  * @Description: 
@@ -193,7 +193,7 @@ add_action('in_admin_header', function(){
 });
 add_filter('admin_footer_text', 'left_admin_footer_text');
 function left_admin_footer_text($text) {
-    $text = '<span id="footer-thankyou">感谢您使用 <a href="https://www.iotheme.cn/" target="_blank">一为的 WordPress 主题</a></span>';
+    $text = '<span id="footer-thankyou">感谢您使用 <a href="https://56world.pp.ua/" target="_blank">Midou的 WordPress 主题</a></span>';
     return $text;
 }
 
@@ -676,8 +676,8 @@ if(io_get_option('ioc_login_language',false)){
 }
 
 /**
- * 美化Wordpress登录页 By 一为
- * 原文地址：https://www.iowen.cn/chundaimameihuawordpressmorendengluye/
+ * 美化Wordpress登录页 By midou
+ * 原文地址：https://56world.pp.ua/
  */
 function io_login_header(){
     echo '<div class="login-container">
@@ -696,14 +696,14 @@ function io_login_footer(){
     echo '</div><!--login-body END-->
     </div><!--login-container END-->
     <div class="footer-copyright position-absolute">
-            <span>Copyright © <a href="'. esc_url(home_url()) .'" class="text-white-50" title="'. get_bloginfo('name') .'" rel="home">'. get_bloginfo('name') .'</a>&nbsp;&nbsp;Modify by <a href="https://www.iotheme.cn" target="_blank">一为</a></span> 
+            <span>Copyright © <a href="'. esc_url(home_url()) .'" class="text-white-50" title="'. get_bloginfo('name') .'" rel="home">'. get_bloginfo('name') .'</a>&nbsp;&nbsp;Modify by <a href="https://www.iotheme.cn" target="_blank">Midou</a></span> 
     </div>';
 }
 
 
 /**
- * 美化Wordpress登录页 By 一为
- * 原文地址：https://www.iowen.cn/chundaimameihuawordpressmorendengluye/
+ * 美化Wordpress登录页 By midou
+ * 原文地址：https://56world.pp.ua/
  */
 function custom_login_style(){
     $login_color_l = io_get_option('login_color_l','#7d00a0');
